@@ -100,3 +100,13 @@ window.addEventListener('load', function() {
         angleDownIcon.classList.add('active');
     }
 });
+
+
+
+/* ======= LOGO RELOAD ======= */
+const reloadLink = document.getElementById("reload-link");
+
+reloadLink.addEventListener("click", function () {
+    location.reload();
+});
+
