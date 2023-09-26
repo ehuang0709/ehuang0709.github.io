@@ -1,6 +1,6 @@
 # ehuang0709.github.io
 
-My personal portfolio website that can be viewed at [ehuang0709.github.io](ehuang0709.github.io).
+My personal portfolio website that can be viewed at [ehuang0709.github.io](https://ehuang0709.github.io/).
 
 ## Built with
 - HTML
