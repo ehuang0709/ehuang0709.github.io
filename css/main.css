@@ -724,7 +724,7 @@ a.fa.fa-angle-down:focus {
 #skills .skills-wrapper {
     padding: 100px 150px 100px;
     background-color: #202023;
-    height: 835px;
+    height: 1000px;
 }
 
 #skills h2 {
@@ -849,7 +849,7 @@ a.fa.fa-angle-down:focus {
 
 #projects .project-left img {
     width: 100%;
-    border: 1px solid lightgray;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
 }
 
 #projects .project-right {
